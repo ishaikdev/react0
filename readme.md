@@ -1,4 +1,6 @@
-![Advanced React & GraphQL](https://advancedreact.com/images/ARG/arg-facebook-share.png)
+No Affiliation.
+
+FORM FROM WESBOS, DETAILS BELOW:
 
 # Advanced React & GraphQL
 
