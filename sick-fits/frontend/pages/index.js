@@ -1,9 +1,9 @@
-import React, { Component} from 'react';
+import Link from 'next/link';
 
-export default class Comp extends Component{
-    render() {
-        return (
-            <h1>Test</h1>
-        )
-    }
-}
+const Home = props => (
+  <div>
+    <p>Hey!</p>
+  </div>
+);
+
+export default Home;
